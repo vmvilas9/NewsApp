@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="card_height">150dp</dimen>
+    <dimen name="card_width">150dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="card_elevation">10dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="list_padding">16dp</dimen>
+    <dimen name="list_margin">16dp</dimen>
+    <dimen name="header_text">12sp</dimen>
+    <dimen name="section_text">16sp</dimen>
+    <dimen name="linear_width">0dp</dimen>
+</resources>
